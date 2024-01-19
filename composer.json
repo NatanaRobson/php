@@ -1,0 +1,16 @@
+{
+    "name": "nrobson/monprojet",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nrobson\\Monprojet\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natana",
+            "email": "120395992+NatanaRobson@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
